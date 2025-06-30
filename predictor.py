@@ -9,7 +9,7 @@ from sklearn.preprocessing import LabelEncoder
 model = load_model("model.h5")
 
 # Load dataset
-data = pd.read_csv("data_siswa_smp.csv")
+data = pd.read_csv("Dataset/data_siswa_seimbang.csv")
 
 # Load Label Encoder
 le = LabelEncoder()
