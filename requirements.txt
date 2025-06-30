@@ -37,6 +37,7 @@ six==1.16.0
 smmap==5.0.1
 streamlit==1.33.0
 tenacity==8.2.3
+tensorflow-cpu==2.11.0
 threadpoolctl==3.4.0
 toml==0.10.2
 toolz==0.12.1
